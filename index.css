@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(33, 21, 44)
+}
+button { margin-top: 10;
+    background-color: rgb(158, 153, 153);
+    color:rgb(33, 27, 40)
+    font-size: 2rem;
+    padding: 20px 40px;
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 5px;
+}
+.my-box {
+    margin-top: 40px;
+    width: 350px;
+    height: 300px;
+    background-color: lightblue;
+    border: 2px solid blueviolet;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+}
